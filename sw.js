@@ -1,4 +1,4 @@
-const CACHE_NAME = "emma-studio-v1";
+const CACHE_NAME = "emma-studio-v2";
 const ARCHIVOS_CACHE = [
   "./",
   "./index.html",
@@ -7,6 +7,8 @@ const ARCHIVOS_CACHE = [
   "https://cdnjs.cloudflare.com/ajax/libs/exceljs/4.4.0/exceljs.min.js",
   "https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js",
   "https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js",
+  "https://cdn.jsdelivr.net/npm/qrcode@1.5.3/build/qrcode.min.js",
+  "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Playfair+Display:wght@700;800;900&display=swap",
   "https://www.gstatic.com/firebasejs/10.7.1/firebase-app-compat.js",
   "https://www.gstatic.com/firebasejs/10.7.1/firebase-firestore-compat.js",
   "https://www.gstatic.com/firebasejs/10.7.1/firebase-auth-compat.js"
